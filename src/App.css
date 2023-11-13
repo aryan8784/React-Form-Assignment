@@ -1,0 +1,14 @@
+.mainn{
+    border: 2px solid lightgrey;
+    width: 50%;
+    /* height: 100vh; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+input::placeholder{
+    color: lightgray !important;
+}
